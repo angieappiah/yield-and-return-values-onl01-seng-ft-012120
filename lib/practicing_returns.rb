@@ -10,7 +10,10 @@ def hello(array)
   #p collection / testing if it works collection
 end
 
-hello (["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
+def hello_name
+ name = '(["Tim", "Tom", "Jim"])' 
+ |name|
+ puts Hi, #"{name}".
 end
 
 
